@@ -1,4 +1,4 @@
-package co.uk.test.demo;
+package co.uk.company.demo;
 
 public class DemoApplication {
 

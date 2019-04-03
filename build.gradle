@@ -1,6 +1,6 @@
 apply plugin: 'java'
 
-group = 'co.uk.test'
+group = 'co.uk.company'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
